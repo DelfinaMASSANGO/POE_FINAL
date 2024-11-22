@@ -1,0 +1,527 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\views\\dashboard\\hrdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\views\\dashboard\\hrdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\models\\claimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\models\\claimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\views\\dashboard\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\views\\dashboard\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\views\\dashboard\\lecturerdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\views\\dashboard\\lecturerdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\views\\dashboard\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\views\\dashboard\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\views\\claims\\verifyclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\views\\claims\\verifyclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\views\\claims\\submitclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\views\\claims\\submitclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\views\\claims\\listclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\views\\claims\\listclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\views\\claims\\claimsubmitted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\views\\claims\\claimsubmitted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\models\\admindashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\models\\admindashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471C95A6-A120-49CC-B513-2E9598A3AF41}|TestProject1\\TestProject1.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471C95A6-A120-49CC-B513-2E9598A3AF41}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\services\\lecturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\services\\lecturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\services\\claimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\services\\claimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\delfina massango\\source\\repos\\contract monthly claim system_poe\\contract monthly claim system_poe\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HRDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Dashboard\\HRDashboard.cshtml",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Views\\Dashboard\\HRDashboard.cshtml",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Dashboard\\HRDashboard.cshtml",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Views\\Dashboard\\HRDashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T11:41:26.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClaimsController.cs",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Controllers\\ClaimsController.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Controllers\\ClaimsController.cs",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Controllers\\ClaimsController.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Controllers\\ClaimsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:03:53.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:44:16.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:08:47.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T04:33:00.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAowLcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-18T04:13:44.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T23:48:08.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:42:08.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:42:31.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\Lecturer.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Models\\Lecturer.cs",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\Lecturer.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Models\\Lecturer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:36:46.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\Claim.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Models\\Claim.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:57:14.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClaimRepository.cs",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\ClaimRepository.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Models\\ClaimRepository.cs",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\ClaimRepository.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Models\\ClaimRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:46:02.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:46:39.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T04:21:14.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Report.cshtml",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Dashboard\\Report.cshtml",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Views\\Dashboard\\Report.cshtml",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Dashboard\\Report.cshtml",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Views\\Dashboard\\Report.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T11:51:07.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LecturerDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Dashboard\\LecturerDashboard.cshtml",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Views\\Dashboard\\LecturerDashboard.cshtml",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Dashboard\\LecturerDashboard.cshtml",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Views\\Dashboard\\LecturerDashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T00:07:09.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Dashboard\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Views\\Dashboard\\AdminDashboard.cshtml",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Dashboard\\AdminDashboard.cshtml",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Views\\Dashboard\\AdminDashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T00:07:41.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VerifyClaims.cshtml",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Claims\\VerifyClaims.cshtml",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Views\\Claims\\VerifyClaims.cshtml",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Claims\\VerifyClaims.cshtml",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Views\\Claims\\VerifyClaims.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T04:33:36.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SubmitClaim.cshtml",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Claims\\SubmitClaim.cshtml",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Views\\Claims\\SubmitClaim.cshtml",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Claims\\SubmitClaim.cshtml",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Views\\Claims\\SubmitClaim.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwC0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T12:34:18.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ListClaims.cshtml",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Claims\\ListClaims.cshtml",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Views\\Claims\\ListClaims.cshtml",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Claims\\ListClaims.cshtml",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Views\\Claims\\ListClaims.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwE4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T04:34:19.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClaimSubmitted.cshtml",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Claims\\ClaimSubmitted.cshtml",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Views\\Claims\\ClaimSubmitted.cshtml",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Claims\\ClaimSubmitted.cshtml",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Views\\Claims\\ClaimSubmitted.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T04:35:02.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T23:47:36.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HRController.cs",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Controllers\\HRController.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Controllers\\HRController.cs",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Controllers\\HRController.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Controllers\\HRController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:30:07.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Program.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Program.cs",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Program.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:13:20.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\appsettings.json",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\appsettings.json",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\appsettings.json",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T21:06:55.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminDashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\AdminDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Models\\AdminDashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\AdminDashboardViewModel.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Models\\AdminDashboardViewModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:29:48.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAmwEAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:36:51.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LecturerService.cs",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Services\\LecturerService.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Services\\LecturerService.cs",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Services\\LecturerService.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Services\\LecturerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:01:03.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ClaimService.cs",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Services\\ClaimService.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Services\\ClaimService.cs",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Services\\ClaimService.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Services\\ClaimService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:58:30.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\User.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:53:54.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\delfina massango\\source\\repos\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:33:42.434Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

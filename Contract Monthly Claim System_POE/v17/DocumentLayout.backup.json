@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{471C95A6-A120-49CC-B513-2E9598A3AF41}|TestProject1\\TestProject1.csproj|c:\\users\\peter\\desktop\\contract monthly claim system_poe\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471C95A6-A120-49CC-B513-2E9598A3AF41}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\peter\\desktop\\contract monthly claim system_poe\\contract monthly claim system_poe\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\source\\repos\\PART 2 POE\\PART 2 POE\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\peter\\desktop\\contract monthly claim system_poe\\contract monthly claim system_poe\\views\\claims\\listclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\views\\claims\\listclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\peter\\desktop\\contract monthly claim system_poe\\contract monthly claim system_poe\\views\\claims\\claimsubmitted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\views\\claims\\claimsubmitted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\peter\\desktop\\contract monthly claim system_poe\\contract monthly claim system_poe\\views\\claims\\submitclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\views\\claims\\submitclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\peter\\desktop\\contract monthly claim system_poe\\contract monthly claim system_poe\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\peter\\desktop\\contract monthly claim system_poe\\contract monthly claim system_poe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\peter\\desktop\\contract monthly claim system_poe\\contract monthly claim system_poe\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\peter\\desktop\\contract monthly claim system_poe\\contract monthly claim system_poe\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\peter\\desktop\\contract monthly claim system_poe\\contract monthly claim system_poe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\peter\\desktop\\contract monthly claim system_poe\\contract monthly claim system_poe\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\peter\\desktop\\contract monthly claim system_poe\\contract monthly claim system_poe\\views\\claims\\verifyclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\views\\claims\\verifyclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\peter\\desktop\\contract monthly claim system_poe\\contract monthly claim system_poe\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\peter\\desktop\\contract monthly claim system_poe\\contract monthly claim system_poe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\peter\\desktop\\contract monthly claim system_poe\\contract monthly claim system_poe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\peter\\desktop\\contract monthly claim system_poe\\contract monthly claim system_poe\\contract monthly claim system_poe.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\contract monthly claim system_poe.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|c:\\users\\peter\\desktop\\contract monthly claim system_poe\\contract monthly claim system_poe\\models\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}|Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj|solutionrelative:contract monthly claim system_poe\\models\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T00:06:30.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T19:33:44.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListClaims.cshtml",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Claims\\ListClaims.cshtml",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Views\\Claims\\ListClaims.cshtml",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Claims\\ListClaims.cshtml",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Views\\Claims\\ListClaims.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T18:18:53.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClaimSubmitted.cshtml",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Claims\\ClaimSubmitted.cshtml",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Views\\Claims\\ClaimSubmitted.cshtml",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Claims\\ClaimSubmitted.cshtml",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Views\\Claims\\ClaimSubmitted.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T18:18:06.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubmitClaim.cshtml",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Claims\\SubmitClaim.cshtml",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Views\\Claims\\SubmitClaim.cshtml",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Claims\\SubmitClaim.cshtml",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Views\\Claims\\SubmitClaim.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T18:16:53.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\Lecturer.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Models\\Lecturer.cs",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\Lecturer.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Models\\Lecturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:57:48.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T18:43:10.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\Claim.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Models\\Claim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:04:02.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClaimsController.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Controllers\\ClaimsController.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Controllers\\ClaimsController.cs",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Controllers\\ClaimsController.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Controllers\\ClaimsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:07:29.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Program.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Program.cs",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Program.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:20:03.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T19:35:03.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VerifyClaims.cshtml",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Claims\\VerifyClaims.cshtml",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Views\\Claims\\VerifyClaims.cshtml",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\Claims\\VerifyClaims.cshtml",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Views\\Claims\\VerifyClaims.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T18:19:31.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T19:35:01.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:43:45.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-17T00:20:55.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Contract Monthly Claim System_POE",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T20:16:09.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Approval.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\Approval.cs",
+              "RelativeDocumentMoniker": "Contract Monthly Claim System_POE\\Models\\Approval.cs",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Contract Monthly Claim System_POE\\Contract Monthly Claim System_POE\\Models\\Approval.cs",
+              "RelativeToolTip": "Contract Monthly Claim System_POE\\Models\\Approval.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:05:43.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PART 2 POE\\PART 2 POE\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\lab_services_student\\source\\repos\\PART 2 POE\\PART 2 POE\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\PART 2 POE\\PART 2 POE\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\..\\lab_services_student\\source\\repos\\PART 2 POE\\PART 2 POE\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:28:24.516Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
