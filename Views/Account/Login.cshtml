@@ -1,0 +1,22 @@
+﻿@model LoginViewModel
+<h2>Login</h2>
+<form asp-action="Login" method="post">
+    <div class="form-group">
+        <label for="Username">Username:</label>
+        <input type="text" class="form-control" name="Username" required />
+    </div>
+    <div class="form-group">
+        <label for="Password">Password:</label>
+        <input type="password" class="form-control" name="Password" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Login</button>
+</form>
+
+<hr />
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-info">@TempData["Message"]</div>
+}
+
+<p>Don't have an account? <a asp-controller="Account" asp-action="Register">Register here</a></p>
+

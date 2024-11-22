@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="container-fluid" style="background-color: #3E362E; min-height: 100vh;">
+    <!-- Welcome Section -->
+    <div class="container text-center text-light py-5">
+        <h1 class="display-4 fw-bold" style="color: #AC8968;">Welcome to the Contract Monthly Claim System</h1>
+        <p class="lead" style="color: #93785B;">
+            Manage claims efficiently with our seamless system. Navigate to your dashboard below.
+        </p>
+    </div>
+
+    <!-- Button Section -->
+    <div class="container d-flex flex-column align-items-center">
+        <a asp-controller="Account" asp-action="LecturerDashboard" class="btn btn-lg mb-3 shadow-sm w-50"
+           style="background-color: #865D36; color: #FFFFFF; border: 2px solid #AC8968;">
+            Lecturer Dashboard
+        </a>
+        <a asp-controller="Account" asp-action="AdminDashboard" class="btn btn-lg mb-3 shadow-sm w-50"
+           style="background-color: #865D36; color: #FFFFFF; border: 2px solid #AC8968;">
+            Admin Dashboard
+        </a>
+        <a asp-controller="Account" asp-action="HRDashboard" class="btn btn-lg shadow-sm w-50"
+           style="background-color: #865D36; color: #FFFFFF; border: 2px solid #AC8968;">
+            HR Dashboard
+        </a>
+    </div>
+</div>

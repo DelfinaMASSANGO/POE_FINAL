@@ -1,0 +1,22 @@
+﻿<h2>Claims Report</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Claim ID</th>
+            <th>Lecturer Name</th>
+            <th>Approved Amount</th>
+            <th>Date Approved</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ClaimId</td>
+                <td>@item.LecturerName</td>
+                <td>@item.ApprovedAmount</td>
+                <td>@item.DateApproved</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+<div style="text-align: center; margin-top: 50px;">
+    <h1>Admin Dashboard</h1>
+    <h1>Welcome to Admin Dashboard</h1>
+
+    <a href="/Claims/VerifyClaims" class="btn btn-primary" style="margin: 10px;">Verify Claims</a>
+    <a href="/Claims/ListClaims" class="btn btn-primary" style="margin: 10px;">View Claims</a>
+    <a href="/Account/Logout" class="btn btn-secondary" style="margin: 10px;">Logout</a>
+</div>
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-info">@TempData["Message"]</div>
+}

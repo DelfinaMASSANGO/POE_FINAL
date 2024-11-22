@@ -1,0 +1,36 @@
+﻿<h1>HR Dashboard</h1>
+<h2>HR Dashboard</h2>
+
+<div>
+    <h3>Manage User Data</h3>
+    <h3>WELCOME TO HR Dashboard</h3>
+    <form asp-action="UpdateUser" method="post">
+        <div>
+            <label for="userId">User ID:</label>
+            <input type="number" name="userId" required />
+        </div>
+        <div>
+            <label for="username">Username:</label>
+            <input type="text" name="username" required />
+        </div>
+        <div>
+            <label for="contactDetails">Contact Details:</label>
+            <input type="text" name="contactDetails" required />
+        </div>
+        <button type="submit">Update User</button>
+    </form>
+</div>
+
+<hr />
+
+<div>
+    <h3>Generate Claims Report</h3>
+    <form asp-action="Report" method="post">
+        <button type="submit">Generate Report</button>
+    </form>
+</div>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-info">@TempData["Message"]</div>
+}
